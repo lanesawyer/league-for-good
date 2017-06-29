@@ -35,4 +35,5 @@ module.exports = {
 			template: 'client/index.html',
 		}),
 	],
+	devtool: 'source-map',
 };
